@@ -20,6 +20,11 @@ Welcome to my professional portfolio. Below are the original brand identities, g
 * **The Strategy:** Focused entirely on highlighting product performance using a clean, minimalist layout. The creative communicates essential features effortlessly without cluttering the luxury aesthetic of the shot.
 * **Asset:** See `gracefull-shampoo.png` in the repository list above.
 
+### 📱 4. Social Media Platform & Content Management
+* **The Project:** Growth, content curation, and community engagement for my own media page.
+* **The Strategy:** Executing a consistent visual style and post schedule to build a dedicated audience, tracking engagement metrics, and refining content strategies based on viewer response.
+* **Live Link:** [View My Live Facebook Page](https://web.facebook.com/profile.php?id=61576699855387)
+
 ---
 
 ## 🛠️ Core Skills Summary
